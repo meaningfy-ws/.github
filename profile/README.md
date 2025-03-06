@@ -1,9 +1,8 @@
-# [Meaningfy](https://meaningfy.ws/)
-
-#### Enacting Knowledge
+#### [Meaningfy](https://meaningfy.ws/) Enacting Knowledge
 _We integrate unstructured data into comprehensive knowledge systems, 
 enabling your organization to make data-driven decisions._
 
+<!---
 ----
 
 #### Take control over your knowledge assets
@@ -20,7 +19,6 @@ Better insights, better control._
 * **Text Mining & Text Analytics:** _Unlock the meaning from the unstructured text and expose new business insights._
 * **Semantic Technology Training:** _Master semantic technologies with tailor-made training courses to accommodate your needs._
 
-<!---
 ---
 
 ### Approach to give unstructured data meaning from plan to value
@@ -33,9 +31,8 @@ Since each project differs, we customize our solutions to meet your needs and ap
 05. Deployment: As soon as the scope of the project has been met, the first version will be released.Our team makes sure the deployment goes smoothly.
 06. Support: We offer support for your project, which includes introducing new updates, as well as adding new functionalities and correcting the errors, if necessary. 
 
--->
-
 ---
-
 ### Let's build something together
+
 _See how semantic technology can work for you. [Book a call at your convenience with our experts today.](https://koalendar.com/e/meeting-with-eugeniu-costetchi)_
+-->
